@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @madmarbles
 - 👀 I’m interested in data analytics and video games
 - 🌱 I’m currently learning SQL and R.
-- 📫 How to reach me @madmarbles most places
+- 📫 Reach me @madmarbles in most places
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I've completed the National Dex in every Pokémon game.
 
